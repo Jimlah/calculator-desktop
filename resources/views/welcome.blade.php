@@ -8,8 +8,6 @@
         @vite(['resources/css/app.css', 'resources/css/app.css'])
     </head>
     <body class="antialiased">
-    <div class="h-screen w-full bg-white dark:bg-gray-950">
-
-    </div>
+    <livewire:calculator />
     </body>
 </html>
